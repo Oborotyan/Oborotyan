@@ -20,19 +20,25 @@
 ⚡ Новый этап: Click House или язык программирования M в Power BI (для создания сложных запросов в Power Query)
 <br/>  
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## Мои hard-skills 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,visualstudio)](https://skillicons.dev)
 
 ## Мои BI навыки
 **Инструменты визуализации** — Power BI, Excel, Google Data Studio, Yandex DataLens, draw.io
+
+
 **Языки программирования** — Python (pandas, numpy, scipy, seaborn, matplotlib, random, plotly)
+
+
 **Базы данных** — PostgreSQL, MySQL, Click House
+
+
 **Среды разработки** —Visual Studio Code, Google Colab, Jupiter	ДРУГОЕ
+
+
 **Рабочие пространства** — Miro, Obsidian, Notion, Slack, MS Office и аналоги Google, BPMN 2, ueCalc, Jiro
+
+
 **Языки разметки** — md, HTML, CSS 
 
 ## Как со мной связаться

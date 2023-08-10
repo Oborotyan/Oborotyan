@@ -25,7 +25,7 @@
 </div>
 
 ## Мои hard-skills 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,visualstudio)](https://skillicons.dev)
 
 ## Как со мной связаться
 <div id="badges">

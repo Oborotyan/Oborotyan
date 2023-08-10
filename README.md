@@ -20,6 +20,10 @@
 ⚡ Новый этап: Click House или язык программирования M в Power BI (для создания сложных запросов в Power Query)
 <br/>  
 
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Мои hard-skills 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,)](https://skillicons.dev)
 

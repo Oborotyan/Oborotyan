@@ -20,23 +20,19 @@
 ⚡ Новый этап: Click House или язык программирования M в Power BI (для создания сложных запросов в Power Query)
 <br/>  
 
-## Мои навыки
-### Языки программирования  
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,)](https://skillicons.dev)
-
-### Инструменты визуализации  
-[![My Skills](https://skillicons.dev/icons?i=powerbi,excel,datalens,googledatastudio,draw.io)](https://skillicons.dev)
-
-### Рабочие пространства  
-<!-- button 1:"plain" -->
-<a href="javascript:;" class="minibutton"><span>Basic Button</span></a>
-<!-- button 2:"icon" -->
-<a href="javascript:;" class="minibutton btn-download"><span><span class="icon"></span>Button With Icon</span></a>
+## Мои hard-skills 
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,)](https://skillicons.dev)
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/Oborotyan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://https://t.me/TMpodderjka" target="_blank">
+<img src=https://img.shields.io/badge/telegram%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://https://api.whatsapp.com/send/?phone=79185457968&text&type=phone_number&app_absent=0" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 <br/> 
 

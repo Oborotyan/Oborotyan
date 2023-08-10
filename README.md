@@ -4,37 +4,19 @@
 <div align="center">
 <img src="https://i.postimg.cc/QC26J1Vf/istockphoto-1492009177-1024x1024-4sn1-Kps-R2-transformed.jpg" align="center" style="width: 100%" />
 </div>  
-  
-
-
 
 ### (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Немного обо мне  ✧･ﾟ:*(ﾉ◕ヮ◕)ﾉ  
 😎 Занимаюсь BI-аналитикой уже 1,5 года  
-  
-
 🤠 В данный момент активно ищу работу по своей специальности! Я готова.  
-  
-
 🧐 В данный момент работаю над проектом "Исследование ценообразования с целью оптимизации продаж" в Excel  
-  
-
 🤭 Моё прибыльное хобби - создаю рабочие пространства и креативные страницы в Notion  
-  
-
 😵 Любовь к самообразованию это моё проклятие - Я ПРОСТО НЕ МОГУ ОСТАНОВИТЬСЯ и не пытайтесь меня остановить
-
 ⚡ Новый этап: Click House или язык программирования M в Power BI (для создания сложных запросов в Power Query)
-  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 ### Языки программирования  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -44,8 +26,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Инструменты визуализации  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
@@ -54,8 +34,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Рабочие пространства  
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -63,43 +41,31 @@
 </div>
 
 </td></tr></table>  
-
 <br/>  
-
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/Oborotyan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
 
-<br/>  
-
+<br/> 
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Oborotyan&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
 <br/>  
-
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Oborotyan&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
 <div align="center"></div>
 <br />
 

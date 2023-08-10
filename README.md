@@ -18,6 +18,6 @@
 
   <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
   
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://https://www.youtube.com/channel/UCf8vY5pW1QDciWBGvs_2KjQ"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>  
   
 </details>

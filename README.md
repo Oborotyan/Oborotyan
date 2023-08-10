@@ -28,7 +28,10 @@
 [![My Skills](https://skillicons.dev/icons?i=powerbi,excel,datalens,googledatastudio,draw.io)](https://skillicons.dev)
 
 ### Рабочие пространства  
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+<!-- button 1:"plain" -->
+<a href="javascript:;" class="minibutton"><span>Basic Button</span></a>
+<!-- button 2:"icon" -->
+<a href="javascript:;" class="minibutton btn-download"><span><span class="icon"></span>Button With Icon</span></a>
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/Oborotyan" target="_blank">

@@ -25,10 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,)](https://skillicons.dev)
 
 ### Инструменты визуализации  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powerbi,excel,datalens,googledatastudio,draw.io)](https://skillicons.dev)
 
 ### Рабочие пространства  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ## Connect with me  
 <a href="https://github.com/https://github.com/Oborotyan" target="_blank">

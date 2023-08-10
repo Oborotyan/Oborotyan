@@ -1,6 +1,5 @@
-
 <p align="center">
-  <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=0036FFFF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there+!+;My+name's+Tuan+Anh+;And+nice+to+meet+you+!" alt="tranthaituananh | hello_world!" /></a>
+  <a href="https://github.com/Oborotyan"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=0036FFFF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Привет+всем+!+;Меня+зовут+Татьяна+;Добро+пожаловать+в+мои+владения+!" alt="tranthaituananh | hello_world!" /></a>
 </p> 
 <p align="center">
   <a href="http://tuananh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-23112010?style=for-the-badge&logo=About.me&logoColor=white" /></a>

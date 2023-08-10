@@ -28,7 +28,7 @@
   <a href="https://t.me/TMpodderjka">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=79185457968&text&type=phone_number&app_absent=0">
+  <a href="https://wa.me/79185457968">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt=" WhatsApp Badge"/>
   </a>
   <a href="tatyanka-mikhaylova-04@mail.ru">

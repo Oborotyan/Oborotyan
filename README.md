@@ -42,7 +42,7 @@
 
 <br/> 
 
-### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> Аналитика моего GitHub </h2> 
+### <h2> Аналитика моего GitHub </h2> 
 <div align="center">
   <a href="https://github.com/Oborotyan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oborotyan&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
@@ -53,6 +53,6 @@
 
 ---
 <div align="center">
-  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
-  &copy; 2023 Tran Thai Tuan Anh
+  Спасибо, что просмотрели мой профиль, если вас заинтересовала моя вакансия, прошу рассмотреть вас моё резюме. Для этого перейдите по ссылке в репозиторий “Резюме” <br/>
+  &copy; 2023 TM
 </div>

@@ -27,6 +27,14 @@
 ## Мои hard-skills 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,visualstudio)](https://skillicons.dev)
 
+## Мои BI навыки
+**Инструменты визуализации** — Power BI, Excel, Google Data Studio, Yandex DataLens, draw.io
+**Языки программирования** — Python (pandas, numpy, scipy, seaborn, matplotlib, random, plotly)
+**Базы данных** — PostgreSQL, MySQL, Click House
+**Среды разработки** —Visual Studio Code, Google Colab, Jupiter	ДРУГОЕ
+**Рабочие пространства** — Miro, Obsidian, Notion, Slack, MS Office и аналоги Google, BPMN 2, ueCalc, Jiro
+**Языки разметки** — md, HTML, CSS 
+
 ## Как со мной связаться
 <div id="badges">
   <a href="https://t.me/TMpodderjka">
@@ -39,8 +47,6 @@
     <img src="https://img.shields.io/badge/Mail-dark?style=for-the-badge&logo=mail&logoColor=white" alt="Mail.ru Badge"/>
   </a>
 </div>
-
-<br/> 
 
 ### <h2> Аналитика моего GitHub </h2> 
 <div align="center">

@@ -23,7 +23,7 @@
 ## Мои hard-skills 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,)](https://skillicons.dev)
 
-## Connect with me  
+## Как со мной связаться
 <div id="badges">
   <a href="https://t.me/TMpodderjka">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -37,28 +37,6 @@
 </div>
 
 <br/> 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Oborotyan&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<br/>  
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-<br/>  
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Oborotyan&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> Аналитика моего GitHub </h2> 
 <div align="center">

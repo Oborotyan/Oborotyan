@@ -24,15 +24,17 @@
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,)](https://skillicons.dev)
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/Oborotyan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://https://t.me/TMpodderjka" target="_blank">
-<img src=https://img.shields.io/badge/telegram%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://https://api.whatsapp.com/send/?phone=79185457968&text&type=phone_number&app_absent=0" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<div id="badges">
+  <a href="your-Telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="your- WhatsApp-URL">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt=" WhatsApp Badge"/>
+  </a>
+  <a href="your-Mail.ru-URL">
+    <img src="https://img.shields.io/badge/Mail-dark?style=for-the-badge&logo=mail&logoColor=white" alt="Mail.ru Badge"/>
+  </a>
+</div>
 
 <br/> 
 

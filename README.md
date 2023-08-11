@@ -59,48 +59,7 @@
 
 Во время обучения в высшем учебном заведении я успешно прошла учебную практику в Южном таможенном Управлении Федеральной таможенной службы, совмещая со стажировкой в банке Центр-Инвест на позиции Стажера отдела кредитования малого и среднего бизнеса. За 2 года обучения я успела поучавствовать в крупных мероприятиях на базе академии, например, Экономический форум, Конкурс студенческих инициатив, Кейс-чемпионате от mail.ru при партнёрстве VK и прочее. Но важно одно - навыки управления командой, создания проектов с нуля, ведения отчётности, представления проекта аудитории в формате live broadcast, навсегда со мноц.
 
-В начале превого курса я направила все свои ресурсы на обучение IT-технологиям и вот к третьему курсу я созрела подаваться на полноценную позицию BI-аналитика. Я изучила более 200 бесплатных курсов средней сложности и выше на таких ресурсах, как Stepik, Coursera, Яндекс Практикум, DataCamp, StrataScratch, YouTube (>6000 обучающих видео, включая полноценные курсы), Kaggle, Microsoft; создала >50 проектов на фрилансе относящихся к Business Intelligence в той или иной мере.
-
-  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
-    <mxGraphModel dx="830" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="21541" value="" style="ellipse;whiteSpace=wrap;rotation=-45;fillColor=#F08705;opacity=60;strokeColor=none;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="373.66" width="378.08" height="165.2" as="geometry" />
-        </mxCell>
-        <mxCell id="21542" value="" style="ellipse;whiteSpace=wrap;rotation=135;fillColor=#E85642;opacity=60;strokeColor=none;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="376.69" width="130.95" height="135.44" as="geometry" />
-        </mxCell>
-        <mxCell id="21543" value="" style="ellipse;whiteSpace=wrap;fillColor=#2F5B7C;opacity=60;strokeColor=none;html=1;rotation=30;" parent="1" vertex="1">
-          <mxGeometry x="858.08" y="422.72" width="189.25" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="21544" value="" style="ellipse;whiteSpace=wrap;fillColor=#12AAB5;opacity=60;strokeColor=none;rotation=-15;html=1;" parent="1" vertex="1">
-          <mxGeometry x="622.28" y="490" width="275.22" height="117.72" as="geometry" />
-        </mxCell>
-        <mxCell id="21545" value="" style="ellipse;whiteSpace=wrap;rotation=-195;fillColor=#736CA8;opacity=60;strokeColor=none;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="327.28" width="135.68" height="57.72" as="geometry" />
-        </mxCell>
-        <mxCell id="21549" value="Power BI" style="text;spacingTop=-5;fontStyle=0;fontSize=40;html=1;fontColor=#FFFFFF;rotation=316;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="592.2799163537603" y="474.40657993931944" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21550" value="Notion" style="text;spacingTop=-5;fontStyle=0;fontSize=20;html=1;fontColor=#FFFFFF;rotation=35;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry x="925.3100000000001" y="446.26" width="30.37" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21557" value="Excel" style="text;spacingTop=-5;fontStyle=0;fontSize=30;html=1;fontColor=#FFFFFF;rotation=338;" parent="1" vertex="1">
-          <mxGeometry x="720" y="538.8590955831165" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21558" value="Draw.io" style="text;spacingTop=-5;fontStyle=0;fontSize=15;html=1;fontColor=#FFFFFF;rotation=342;spacing=2;spacingLeft=-3;spacingBottom=2;" parent="1" vertex="1">
-          <mxGeometry x="867.5014241751807" y="346.1391419126428" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21559" value="Power Point" style="text;spacingTop=-5;fontStyle=0;fontSize=20;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="789.9983870339199" y="434.410347970285" width="30" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
-
+В начале превого курса я направила все свои ресурсы на обучение IT-технологиям и вот к третьему курсу я созрела подаваться на полноценную позицию BI-аналитика. Я изучила более 200 бесплатных курсов средней сложности и выше на таких ресурсах, как Stepik, Coursera, Яндекс Практикум, DataCamp, StrataScratch, YouTube (>6000 обучающих видео, включая полноценные курсы), Kaggle, Microsoft; создала >50 коммерческих проектов на фрилансе относящихся к Business Intelligence; поучавствовала >30 мероприятиях от таких компаний как Институт бизнес-аналитики Алексея Колоколова, Changellenge Education, OTUS, Cloud.ru, Roistat, Слёрм и другие, включая решение и разбор практических кейсов, live conference.
 
 ### <h2> Аналитика моего GitHub </h2> 
 <div align="center">

@@ -30,7 +30,7 @@
 **Языки программирования** — Python (pandas, numpy, scipy, seaborn, matplotlib, random, plotly)
 
 
-**Базы данных** — PostgreSQL, MySQL, Click House
+**Базы данных** — PostgreSQL, MySQL
 
 
 **Среды разработки** — Visual Studio Code, Google Colab, Jupiter	ДРУГОЕ

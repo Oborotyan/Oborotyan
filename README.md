@@ -61,7 +61,6 @@
 
 В начале превого курса я направила все свои ресурсы на обучение IT-технологиям и вот к третьему курсу я созрела подаваться на полноценную позицию BI-аналитика. Я изучила более 200 бесплатных курсов средней сложности и выше на таких ресурсах, как Stepik, Coursera, Яндекс Практикум, DataCamp, StrataScratch, YouTube (>6000 обучающих видео, включая полноценные курсы), Kaggle, Microsoft; создала >50 проектов на фрилансе относящихся к Business Intelligence в той или иной мере.
 
-<mxfile host="app.diagrams.net" modified="2023-08-11T07:01:52.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.1.1140 Yowser/2.5 Safari/537.36" etag="I3Q_24EVUZ4JC5jnsfFk" version="21.6.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="830" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
